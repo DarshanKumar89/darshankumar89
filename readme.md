@@ -8,10 +8,11 @@ I build **scalable infrastructure in Rust, Java, and Python for regulated indust
 
 ### 🎯 My Focus
 
-- **Cybersecurity** — attack surface management, runtime security, air-gapped deployments
+
 - **Rust + Java + Python** — hybrid systems where memory safety, JVM ecosystem depth, and rapid iteration each pull their weight
 - **Integration & systems architecture** — designing how services, data, and legacy systems actually talk to each other; API gateways, event-driven pipelines, ESB modernization, polyglot interop (Java ↔ Rust ↔ Python)
 - **Platform engineering & SRE & DEVOPS** — multi-language build systems, cross-compilation, observability across language boundaries
+- **Cybersecurity** — attack surface management, runtime security, air-gapped deployments, threat modeling (STRIDE, PASTA), vulnerability research, penetration testing, red team / blue team exercises, digital forensics & incident response, malware analysis, memory forensics, log & network forensics, chain-of-custody evidence handling, SIEM / SOAR integration, threat intelligence, secure SDLC
 - **Architecture for regulated environments** — GDPR, NIS2, MiCA, HIPAA, SOC 2, ISO 27001 as design constraints, not afterthoughts
 - **Integration & systems architecture** — designing how services, data, and legacy systems actually talk to each other; API gateways, event-driven pipelines, ESB modernization, polyglot interop (Java ↔ Rust ↔ Python)
 - **Architecture styles** — microservices, event-driven, hexagonal / ports & adapters, CQRS + event sourcing, serverless, service mesh, modular monoliths, data mesh
@@ -39,7 +40,8 @@ I build **scalable infrastructure in Rust, Java, and Python for regulated indust
 **Domains:** Cybersecurity · Integration & systems architecture · Platform engineering · Database systems · LLM systems · Blockchain
 **Architecture:** Event-driven systems · API gateways · Polyglot interop · Legacy modernization · Distributed systems
 **Compliance:** GDPR · NIS2 · MiCA · HIPAA · SOC 2 · ISO 27001
-**Blockchain**: Rust protocol tooling · Codecs & serialization · RPC clients · Chain indexers · Cross-chain interop · 7 chain families (Bitcoin, Ethereum, Solana, Cosmos, and more) · Bindings for TS, Python, Go, Java, WASM
+**Blockchain:** Rust protocol tooling · Codecs & serialization · RPC clients · Chain indexers · Cross-chain interop · 7 chain families (Bitcoin, Ethereum, Solana, Cosmos, and more) · Bindings for TS, Python, Go, Java, WASM
+
 ---
 
 ### 🌐 Elsewhere
