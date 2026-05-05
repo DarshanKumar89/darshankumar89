@@ -6,10 +6,8 @@ I build **scalable infrastructure in Rust, Java, and Python for regulated indust
 
 ---
 
-### 🎯 My Focus
+### 🎯 Skills 
 
-
-- **Rust + Java + Python** — hybrid systems where memory safety, JVM ecosystem depth, and rapid iteration each pull their weight
 - **Integration & systems architecture** — designing how services, data, and legacy systems actually talk to each other; API gateways, event-driven pipelines, ESB modernization, polyglot interop (Java ↔ Rust ↔ Python)
 - **Platform engineering & SRE & DEVOPS** — multi-language build systems, cross-compilation, observability across language boundaries
 - **Cybersecurity** — attack surface management, runtime security, air-gapped deployments, threat modeling (STRIDE, PASTA), vulnerability research, penetration testing, red team / blue team exercises, digital forensics & incident response, malware analysis, memory forensics, log & network forensics, chain-of-custody evidence handling, SIEM / SOAR integration, threat intelligence, secure SDLC
