@@ -2,7 +2,7 @@
 
 I build **scalable infrastructure in Rust, Java, and Python for regulated industries worldwide** — cybersecurity, databases, and local-first AI.
 
-15+ years across cybersecurity, blockchain infrastructure, databases, and AI systems. Apache Committer. Based in **Brussels** 🇧🇪, shipping globally.
+
 
 ---
 
@@ -20,7 +20,7 @@ I build **scalable infrastructure in Rust, Java, and Python for regulated indust
 
 ---
 
-### 🛠️ What I'm building
+### 🛠️ What I'm building in OSS 
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -42,7 +42,7 @@ I build **scalable infrastructure in Rust, Java, and Python for regulated indust
 
 ---
 
-### 🌐 Elsewhere
+### 🌐 Find me 
 
 - 🐦 X / Twitter: [@darshan_aqua](https://x.com/darshan_aqua)
 - 💼 LinkedIn: [Darshan Kumar](https://www.linkedin.com/in/darshankumar/)
