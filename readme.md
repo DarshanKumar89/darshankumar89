@@ -1,6 +1,6 @@
 # Hi, I'm Darshan 👋
 
-I build **scalable infrastructure in Rust, Java, and Python for regulated industries worldwide** — cybersecurity, databases, and local-first AI.
+I build **scalable infrastructure in Rust, Java, Python,TS, Devops, Security for regulated industries worldwide** — cybersecurity, databases, and local-first AI.
 
 
 
